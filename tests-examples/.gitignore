@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Playwright reports
+playwright-report/
+
+# Temporary files and logs
+*.log
+*.tmp
+*.lock
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
